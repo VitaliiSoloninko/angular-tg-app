@@ -4,6 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-shop',
   standalone: true,
   imports: [],
-  template: `main shop`,
+  template: `<h1>main shop</h1>`,
 })
 export class ShopComponent {}
